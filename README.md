@@ -85,36 +85,3 @@ python run_persona_gui.py
 
 This tool is for educational and personal use only. Please respect Reddit's API terms of service and user privacy. The generated persona is an inference based on public data and may not be entirely accurate.
 
-## Project Structure
-
-```
-reddit-persona-generator/
-├── .env.example
-├── main.py
-├── reddit_scraper.py
-├── persona_generator.py
-├── utils.py
-├── requirements.txt
-├── README.md
-├── spez_persona.txt (example output)
-└── Instuctions.md
-└── change.md
-```
-
-## .gitignore
-
-The following files should be excluded from version control:
-
-```
-.env
-.env.*
-*.pyc
-__pycache__/
-spez_persona.txt
-Instuctions.md
-change.md
-```
-
-## Repository
-
-[GitHub: TashonBraganca/Reddit-Persona](https://github.com/TashonBraganca/Reddit-Persona.git)
